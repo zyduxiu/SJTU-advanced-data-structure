@@ -1,0 +1,3 @@
+C:/Users/zhangyue/Desktop/Lab1/YCSB-test/cmake-build-debug/CMakeFiles/lab1_test.dir
+C:/Users/zhangyue/Desktop/Lab1/YCSB-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhangyue/Desktop/Lab1/YCSB-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
