@@ -1,0 +1,3 @@
+C:/Users/zhangyue/CLionProjects/untitled40/cmake-build-debug/CMakeFiles/untitled40.dir
+C:/Users/zhangyue/CLionProjects/untitled40/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhangyue/CLionProjects/untitled40/cmake-build-debug/CMakeFiles/rebuild_cache.dir
